@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Yellow Charts",
+        "file": "chartdata-yellow-new.json",
+        "rating": "Top",
+        "data": null,
+        "urlseg": "yellow",
+        "startYear": 2024,
+        "endYear": 2024,
+        "startDay": 5
+    },
+    {
+        "name": "Elio Charts",
+        "file": "chartdata-elio-new.json",
+        "rating": "Hot",
+        "data": null,
+        "urlseg": "elio",
+        "startYear": 2011,
+        "endYear": 2024,
+        "startDay": 4
+    }
+]

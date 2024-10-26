@@ -1,0 +1,875 @@
+{
+  "songs": [
+    {
+      "artist": "Teddy Swims",
+      "name": "Lose Control",
+      "img": "https://charts-static.billboard.com/img/2023/07/teddyswims-vot-losecontrol-4kx-344x344.jpg",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/17phhZDn6oGtzMe56NuWvj?utm_source=generator"
+    },
+    {
+      "artist": "Tiësto Featuring Tate McRae",
+      "name": "10:35",
+      "img": "https://i.scdn.co/image/ab67616d00001e02999565cd8bea3f8f0985bb31",
+      "album": "DRIVE",
+      "spotify": "https://open.spotify.com/embed/track/36gcliMRX1vCpgnrZE3dFZ?utm_source=generator"
+    },
+    {
+      "artist": "SIX Featuring Renée Lamb",
+      "name": "No Way",
+      "img": "https://i.scdn.co/image/ab67616d0000b27369cfe2a2218d791640e0142b",
+      "album": "Six: The Musical (Studio Cast Recording)",
+      "spotify": "https://open.spotify.com/embed/track/2ldBp6eNIE4wk8C3j0bz8n?utm_source=generator"
+    },
+    {
+      "artist": "Fall Out Boy",
+      "name": "The Phoenix",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Fall_Out_Boy_-_%22The_Phoenix%22_%28Single%29.jpg/220px-Fall_Out_Boy_-_%22The_Phoenix%22_%28Single%29.jpg",
+      "album": "Save Rock And Roll",
+      "spotify": "https://open.spotify.com/embed/track/7jwDuO7UZvWs77KNj9HbvF?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "Goodbye's Been Good to You",
+      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/2L6pMQRcT6aM0Lq5FycBke?utm_source=generator"
+    },
+    {
+      "artist": "Shaboozey",
+      "name": "A Bar Song (Tipsy)",
+      "img": "https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2",
+      "album": "Where I've Been, Isn't Where I'm Going",
+      "spotify": "https://open.spotify.com/embed/track/5fZJQrFKWQLb7FpJXZ1g7K?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "The Door",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "img": "https://i.scdn.co/image/ab67616d0000b273d2c3f88cbf436dff33c659e1",
+      "spotify": "https://open.spotify.com/embed/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "Devil in a Dress",
+      "img": "https://i.scdn.co/image/ab67616d0000b273d8cb72459c89711ea8b8ecb1",
+      "album": "Sleep is Exhausting",
+      "spotify": "https://open.spotify.com/embed/track/3tzQIMpLKTl7oBreD05fAt?utm_source=generator"
+    },
+    {
+      "artist": "SIX",
+      "name": "Ex-Wives",
+      "img": "https://i.scdn.co/image/ab67616d0000b27369cfe2a2218d791640e0142b",
+      "album": "Six: The Musical (Studio Cast Recording)",
+      "spotify": "https://open.spotify.com/embed/track/03GBiorLGTk7T4IScIl4jj?utm_source=generator"
+    },
+    {
+      "artist": "Benson Boone",
+      "name": "Slow It Down",
+      "img": "https://i.scdn.co/image/ab67616d0000b273f824b0f45489f0f3388d5398",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/51eSHglvG1RJXtL3qI5trr?utm_source=generator"
+    },
+    {
+      "artist": "Anastacia",
+      "name": "Love is Alive",
+      "img": "https://i.scdn.co/image/ab67616d00001e025b4639f7df1ba7a582a5b5ab",
+      "album": "Not That Kind",
+      "spotify": "https://open.spotify.com/embed/track/7GFgcwI4W7l7i1A57khTl9?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "Hammer to the Heart",
+      "img": "https://i.scdn.co/image/ab67616d0000b273986e4bc7e3c0ad7eb8d64225",
+      "album": "I've Tried Everything But Therapy (Part 1.5)",
+      "spotify": "https://open.spotify.com/embed/track/0IdwfnHFfyb7zc7GFs75QQ?utm_source=generator"
+    },
+    {
+      "artist": "Benson Boone",
+      "name": "Beautiful Things",
+      "img": "https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/3xkHsmpQCBMytMJNiDf3Ii?utm_source=generator"
+    },
+    {
+      "artist": "Samantha Jade",
+      "name": "Firestarter",
+      "img": "https://i.scdn.co/image/ab67616d0000b273ee6e84798346c473527b376e",
+      "spotify": "https://open.spotify.com/embed/track/4FyyPGjdvNu3UMqnEUGIdx?utm_source=generator"
+      
+    },
+    {
+      "artist": "Anastacia",
+      "name": "Welcome to My Truth",
+      "img": "https://i.scdn.co/image/ab67616d0000b27356e7b7a0fff90d590b422196",
+      "album": "Anastacia",
+      "spotify": "https://open.spotify.com/embed/track/1ZWqVsYIvgSrnfxqV20NxX?utm_source=generator"
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "name": "Since U Been Gone",
+      "img": "https://i.scdn.co/image/ab67616d0000b27324c2e23f46eb28b0344c1c0d",
+      "album": "Breakaway",
+      "spotify": "https://open.spotify.com/embed/track/6JY1IdkZGeIcPegKxjSKeb?utm_source=generator"
+    },
+    {
+      "artist": "Anastacia",
+      "name": "I'm Outta Love",
+      "img": "https://i.scdn.co/image/ab67616d0000b2735060a2346587df70f1e935bd",
+      "album": "Not That Kind",
+      "spotify": "https://open.spotify.com/embed/track/77vCn7iUHH8KAOqdOe1XjY?utm_source=generator"
+    },
+    {
+      "artist": "Anastacia",
+      "name": "Not That Kind",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNy6RhGiL3F_CAZUvHr84hDOs77MT_DqPF1Q&s",
+      "album": "Not That Kind",
+      "spotify": "https://open.spotify.com/embed/track/7sCvsudqsDwDcjezHcMXXF?utm_source=generator"
+    },
+    {
+      "artist": "Usher",
+      "name": "Scream",
+      "img": "https://i.scdn.co/image/ab67616d0000b273b49f3df6322023b8872507b5",
+      "album": "Looking 4 Myself",
+      "spotify": "https://open.spotify.com/embed/track/12eMQUn2GzfsfsQLH53M19?utm_source=generator"
+    },
+    {
+      "artist": "Anastacia",
+      "name": "Paid My Dues",
+      "img": "https://i.scdn.co/image/ab67616d0000b273dabd8186f78a67db0dacdcf1",
+      "album": "Freak of Nature",
+      "spotify": "https://open.spotify.com/embed/track/12GKlsQALhLkUfimhals81?utm_source=generator"
+    },
+    {
+      "artist": "Anastacia",
+      "name": "One Day in Your Life",
+      "img": "https://i.scdn.co/image/ab67616d0000b27321e98eb99567a82a4fd05d7d",
+      "album": "Freak of Nature",
+      "spotify": "https://open.spotify.com/embed/track/28bOFjCFGwglJ7n0zGA17N?utm_source=generator"
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "name": "Gone",
+      "img": "https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c",
+      "album": "Breakaway",
+      "spotify": "https://open.spotify.com/embed/track/4EsPdGFTU3PcmSP22Yh5cs?utm_source=generator"
+    },
+    {
+      "artist": "Anastacia",
+      "name": "You'll Never Be Alone",
+      "img": "https://i.scdn.co/image/ab67616d0000b273baac86a5fab892283a076187",
+      "album": "Freak of Nature",
+      "spotify": "https://open.spotify.com/embed/track/0neP3CEhyZzGdFdFwMBE4J?utm_source=generator"
+    },
+    {
+      "artist": "Anastacia",
+      "name": "Left Outside Alone",
+      "img": "https://i.scdn.co/image/ab67616d0000b273ed08336b52526fac0651c1c8",
+      "album": "Anastacia",
+      "spotify": "https://open.spotify.com/embed/track/3xl7PsO7Hzuig6To9FgDm6?utm_source=generator"
+
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "name": "My Life Would Suck Without You",
+      "img": "https://i.scdn.co/image/ab67616d0000b2738a8234bf46e53947376e56bf",
+      "album": "All I Ever Wanted",
+      "spotify": "https://open.spotify.com/embed/track/4Dm32oO01YpIubCHaAtKkN?utm_source=generator"
+    },
+    {
+      "artist": "Dua Lipa",
+      "name": "Training Season",
+      "img": "https://i.scdn.co/image/ab67616d0000b273790260cc86fd7b2678bb204d",
+      "album": "Radical Optimism",
+      "spotify": "https://open.spotify.com/embed/track/5b5cPscqVEMChvDqscVw26?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "Apple Juice",
+      "img": "https://i.scdn.co/image/ab67616d0000b273986e4bc7e3c0ad7eb8d64225",
+      "album": "I've Tried Everything But Therapy (Part 1.5)",
+      "spotify": "https://open.spotify.com/embed/track/0VccAZeCgMvsnoLnokOBoh?utm_source=generator"
+    },
+    {
+      "artist": "Dua Lipa",
+      "name": "Houdini",
+      "img": "https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af",
+      "album": "Radical Optimism",
+      "spotify": "https://open.spotify.com/embed/track/6D8y7Bck8h11byRY88Pt2z?utm_source=generator"
+    },
+    {
+      "artist": "SIX Featuring Aimie Atkinson",
+      "name": "All You Wanna Do",
+      "img": "https://i.scdn.co/image/ab67616d0000b27369cfe2a2218d791640e0142b",
+      "album": "Six: The Musical (Studio Cast Recording)",
+      "spotify": "https://open.spotify.com/embed/track/1U0hiOuodfSsxdcTYXGEdT?utm_source=generator"
+    },
+    {
+      "artist": "CeeLo Green",
+      "name": "F**k You! (Forget You)",
+      "img": "https://i.scdn.co/image/ab67616d0000b273a00f3f34ac0a2b472255bcb6",
+      "album": "The Lady Killer",
+      "spotify": "https://open.spotify.com/embed/track/6zKMARmU2Ue50cucKnIUR6?utm_source=generator"
+    },
+    {
+      "artist": "Meghan Trainor Featuring Teddy Swims",
+      "name": "Bad For Me",
+      "img": "https://i.scdn.co/image/ab67616d0000b2739ff93660c0f34ca12141d4ec",
+      "spotify": "https://open.spotify.com/embed/track/0mHk41X0RRc6pqrcq1gQAr",
+      "album": "Takin' It Back"
+    },
+    {
+      "artist": "Dasha",
+      "name": "What Happens Now?",
+      "img": "https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb",
+      "album": "What Happens Now?",
+      "spotify": "https://open.spotify.com/embed/track/4cQ8Os8Gf1GgAkzoFQg8Az?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "Funeral",
+      "img": "https://i.scdn.co/image/ab67616d00001e0257e4be14bc56b19ef784890d",
+      "spotify": "https://open.spotify.com/embed/track/6BmqySE91w6AUWvIxDHtqc?utm_source=generator"
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "name": "Espresso",
+      "img": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5",
+      "album": "Short n' Sweet",
+      "spotify": "https://open.spotify.com/embed/track/2HRqTpkrJO5ggZyyK6NPWz?utm_source=generator"
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "name": "Feather",
+      "img": "https://i.scdn.co/image/ab67616d0000b27320bc45d92ee8e4e2097ed635",
+      "album": "emails i can't send fwd:",
+      "spotify": "https://open.spotify.com/embed/track/2Zo1PcszsT9WQ0ANntJbID?utm_source=generator"
+    },
+    {
+      "artist": "CeeLo Green",
+      "name": "Bright Lights Bigger City",
+      "img": "https://i.scdn.co/image/ab67616d0000b273731d4549d3586763ded1a5b9",
+      "album": "The Lady Killer",
+      "spotify": "https://open.spotify.com/embed/track/5d0cofFhhJVmH7ta0Qk1fm?utm_source=generator"
+    },
+    {
+      "artist": "Dasha",
+      "name": "Austin (Boots Stop Workin')",
+      "img": "https://i.scdn.co/image/ab67616d00001e02a73f6a4f17c58becc885efe2",
+      "album": "What Happens Now?",
+      "spotify": "https://open.spotify.com/embed/track/2uqYupMHANxnwgeiXTZXzd?utm_source=generator"
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "name": "Looking at Me",
+      "img": "https://i.scdn.co/image/ab67616d0000b273f22e1263704f24cb504700ea",
+      "album": "Singular Act II",
+      "spotify": "https://open.spotify.com/embed/track/59tskctgqUmjCWAwhzYAFm?utm_source=generator"
+    },
+    {
+      "artist": "Lady Gaga & Bruno Mars",
+      "name": "Die With A Smile",
+      "img": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+      "spotify": "https://open.spotify.com/embed/track/2plbrEY59IikOBgBGLjaoe?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "You Still Get to Me",
+      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/4c1RuddayQTE5dpURdynD5?utm_source=generator"
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "name": "Coincidence",
+      "img": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+      "album": "Short n' Sweet",
+      "spotify": "https://open.spotify.com/embed/track/5oIVNm56t6OIf9ZjdEG3ud?utm_source=generator"
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "name": "Taste",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Sabrina_Carpenter_-_Taste.png",
+      "album": "Short n' Sweet",
+      "spotify": "https://open.spotify.com/embed/track/5G2f63n7IPVPPjfNIGih7Q?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "Some Things I'll Never Know",
+      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/3sXWFs0hku4tR5cy54PnRz?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "What More Can I Say",
+      "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/c9/b1/6bc9b115-7b51-4538-ab8b-63dae6df38f1/054391443892.jpg/600x600bf-60.jpg",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/1MmNMaPzI1uZQS20RV88AT?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "dose",
+      "img": "https://i.scdn.co/image/ab67616d0000b27395418aedda778c6855e978f1",
+      "album": "Sleep is Exhausting",
+      "spotify": "https://open.spotify.com/embed/track/26ETsbVhx34daSYeBGmvgl?utm_source=generator"
+    },
+    {
+      "artist": "Jessie Murph Featuring Teddy Swims",
+      "name": "Dirty",
+      "img": "https://i.scdn.co/image/ab67616d0000b273e094cf8d2eb370fb04f025c3",
+      "album": "That Ain't No Man That's The Devil",
+      "spotify": "https://open.spotify.com/embed/track/67aaig0zaaSzf8zPqSUoN4?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "Last Communion",
+      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/78OTnBQndIIfCswsAIBNFs?utm_source=generator"
+    },
+    {
+      "artist": "Chappell Roan",
+      "name": "Good Luck, Babe!",
+      "img": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+      "spotify": "https://open.spotify.com/embed/track/0WbMK4wrZ1wFSty9F7FCgu?utm_source=generator"
+    },
+    {
+      "artist": "Teddy Swims",
+      "name": "Bad Dreams",
+      "img": "https://i.scdn.co/image/ab67616d0000b273de4b0388cb6e5267132a07bc",
+      "spotify": "https://open.spotify.com/embed/track/3nHuKdFJZm78CoeBnDcFKe?utm_source=generator"
+    },
+    {
+      "artist": "Benson Boone",
+      "name": "There She Goes",
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/4jWCFYhDAqOLClw5dFvk8O?utm_source=generator"
+    },
+    {
+      "artist": "Benson Boone",
+      "name": "Drunk in My Mind",
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/3OJIdGOHEzxY8V0CNCBBXc?utm_source=generator"
+    },
+    {
+      "artist": "Benson Boone",
+      "name": "Ghost Town",
+      "img": "https://i.scdn.co/image/ab67616d0000b273351638732d4bd958ae567ebc",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/6HuHyXviAdpmnQu73JHfBz?utm_source=generator"
+    },
+    {
+      "artist": "Benson Boone",
+      "name": "Cry",
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/3h76tbaYIamSeJL81X7ZwI?utm_source=generator"
+    },
+    {
+      "artist": "Benson Boone",
+      "name": "What Do You Want",
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/5mAZafmZZGSsYHafV9n2i5?utm_source=generator"
+    },
+    {
+      "artist": "Benson Boone",
+      "name": "Be Someone",
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/1j2iMeSWdsEP5ITCrZqbIL?utm_source=generator"
+    },
+    {
+      "artist": "Tate McRae",
+      "name": "greedy",
+      "img": "https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8",
+      "album": "THINK LATER",
+      "spotify": "https://open.spotify.com/embed/track/4kfSXPK13aXkLzuz02hCSC?utm_source=generator"
+    },
+    {
+      "artist": "The Weeknd",
+      "name": "Dancing In The Flames",
+      "img": "https://i.scdn.co/image/ab67616d0000b273f0e9b93cadbeb4d0227a59eb",
+      "spotify": "https://open.spotify.com/embed/track/7z7kvUQGwlC6iOl7vMuAr9?utm_source=generator"
+    },
+    {
+      "artist": "Elley Duhé & Teddy Swims",
+      "name": "FACE MYSELF",
+      "img": "https://i.scdn.co/image/ab67616d0000b27350d399f799bed79de421b345",
+      "spotify": "https://open.spotify.com/embed/track/2R5hXZrxhgwycn39rC0OdQ?utm_source=generator"
+    },
+    {
+      "artist": "Switch Disco, Charlotte Haining & Felix",
+      "name": "I FOUND YOU",
+      "img": "https://i.scdn.co/image/ab67616d0000b2737d7371892e93378921cfd80e",
+      "spotify": "https://open.spotify.com/embed/track/06EtCEDJ762K9frHeSkJS5?utm_source=generator"
+    },
+    {
+      "artist": "Coldplay, Little Simz, Burna Boy, Elyanna & Tini",
+      "name": "WE PRAY",
+      "img": "https://i.scdn.co/image/ab67616d0000b2738009ae03e4e7d759a521c7e7",
+      "album": "Moon Music",
+      "spotify": "https://open.spotify.com/embed/track/7xrEnNo99wrmIs8ZK3RZMK?utm_source=generator"
+    },
+    {
+      "artist": "Addison Rae",
+      "name": "Diet Pepsi",
+      "img": "https://i.scdn.co/image/ab67616d0000b2734e5a5862355a5e953549292b",
+     "spotify": "https://open.spotify.com/embed/track/6MzofobZt2dm0Kf1hTThFz?utm_source=generator"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "name": "Not Like Us",
+      "img": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
+      "spotify": "https://open.spotify.com/embed/track/6AI3ezQ4o3HUoP6Dhudph3?utm_source=generator"
+    },
+    {
+      "artist": "Madison Beer",
+      "name": "15 MINUTES",
+      "img": "https://i.scdn.co/image/ab67616d0000b2737201aab69fc55d3617d3b4ec",
+      "spotify": "https://open.spotify.com/embed/track/2Dazu1HgFj1geJOfKKFOpf?utm_source=generator"
+    },
+    {
+      "artist": "Benson Boone",
+      "name": "In The Stars",
+      "album": "Fireworks & Rollerblades",
+      "img": "https://i.scdn.co/image/ab67616d0000b2730e6b6868e920743f7f4061c4",
+      "spotify": "https://open.spotify.com/embed/track/315aBOUD3xtj7sUMXtRgMV?utm_source=generator"
+    },
+    {
+      "artist": "Madison Beer",
+      "name": "Good in Goodbye",
+      "album": "Life Support",
+      "img": "https://i.scdn.co/image/ab67616d00001e02718f5724ef966438594ea2ed",
+      "spotify": "https://open.spotify.com/embed/track/4y3g40TWe7fCWCayJZuGvw?utm_source=generator"
+    },
+    {
+      "artist": "Madison Beer",
+      "name": "Sweet Relief",
+      "album": "Silence Between Songs",
+      "img": "https://i.scdn.co/image/ab67616d0000b2734cfec4226766102300244b83",
+      "spotify": "https://open.spotify.com/embed/track/12BAxMbHzksw2xiq05gKtT?utm_source=generator"
+    },
+    {
+      "artist": "ROSÉ & Bruno Mars",
+      "name": "APT.",
+      "img": "https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1",
+      "spotify": "https://open.spotify.com/embed/track/5vNRhkKd0yEAg8suGBpjeY?utm_source=generator"
+    },
+    {
+      "artist": "Andy C & Becky Hill",
+      "name": "Indestructible",
+      "album": "Believe Me Now?",
+      "img": "https://i.scdn.co/image/ab67616d0000b273a8f4881be88b5ae101b74be8",
+      "spotify": "https://open.spotify.com/embed/track/2Sw1H321yhy0PL8bznCVwB?utm_source=generator"
+    }
+  ],
+  "weeks": [
+    {
+      "week": 1,
+      "songs": [
+        "Teddy Swims - Lose Control",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "SIX Featuring Renée Lamb - No Way",
+        "Fall Out Boy - The Phoenix",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "Shaboozey - A Bar Song (Tipsy)",
+        "Teddy Swims - The Door",
+        "Teddy Swims - Devil in a Dress",
+        "SIX - Ex-Wives",
+        "Benson Boone - Slow It Down",
+        "Anastacia - Love is Alive",
+        "Teddy Swims - Hammer to the Heart",
+        "Benson Boone - Beautiful Things",
+        "Samantha Jade - Firestarter",
+        "Anastacia - Welcome to My Truth",
+        "Kelly Clarkson - Since U Been Gone",
+        "Anastacia - I'm Outta Love",
+        "Anastacia - Not That Kind",
+        "Usher - Scream",
+        "Anastacia - Paid My Dues",
+        "Anastacia - One Day in Your Life",
+        "Kelly Clarkson - Gone",
+        "Anastacia - You'll Never Be Alone",
+        "Anastacia - Left Outside Alone",
+        "Kelly Clarkson - My Life Would Suck Without You"
+      ],
+      "date": "Week of August 2, 2024"
+    },
+    {
+      "week": 2,
+      "songs": [
+        "Teddy Swims - Lose Control",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "SIX Featuring Renée Lamb - No Way",
+        "Benson Boone - Slow It Down",
+        "Dua Lipa - Training Season",
+        "Shaboozey - A Bar Song (Tipsy)",
+        "Teddy Swims - The Door",
+        "Teddy Swims - Hammer to the Heart",
+        "Teddy Swims - Devil in a Dress",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "Teddy Swims - Apple Juice",
+        "Fall Out Boy - The Phoenix",
+        "Anastacia - I'm Outta Love",
+        "Benson Boone - Beautiful Things",
+        "Dua Lipa - Houdini",
+        "Anastacia - Welcome to My Truth",
+        "Anastacia - Love is Alive",
+        "Kelly Clarkson - Since U Been Gone",
+        "SIX Featuring Aimie Atkinson - All You Wanna Do",
+        "Anastacia - Not That Kind",
+        "Samantha Jade - Firestarter",
+        "SIX - Ex-Wives",
+        "CeeLo Green - F**k You! (Forget You)",
+        "Anastacia - One Day in Your Life",
+        "Kelly Clarkson - Gone"
+      ],
+      "date": "Week of August 9, 2024"
+    },
+    {
+      "week": 3,
+      "songs": [
+        "Meghan Trainor Featuring Teddy Swims - Bad For Me",
+        "Teddy Swims - Lose Control",
+        "Dasha - What Happens Now?",
+        "Dua Lipa - Training Season",
+        "Shaboozey - A Bar Song (Tipsy)",
+        "Benson Boone - Slow It Down",
+        "Teddy Swims - Funeral",
+        "SIX Featuring Renée Lamb - No Way",
+        "Teddy Swims - The Door",
+        "Teddy Swims - Hammer to the Heart",
+        "Teddy Swims - Apple Juice",
+        "SIX Featuring Aimie Atkinson - All You Wanna Do",
+        "Sabrina Carpenter - Espresso",
+        "Teddy Swims - Devil in a Dress",
+        "Sabrina Carpenter - Feather",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "CeeLo Green - F**k You! (Forget You)",
+        "Fall Out Boy - The Phoenix",
+        "Benson Boone - Beautiful Things",
+        "CeeLo Green - Bright Lights Bigger City",
+        "Anastacia - I'm Outta Love",
+        "Dasha - Austin (Boots Stop Workin')",
+        "Dua Lipa - Houdini",
+        "Anastacia - Not That Kind"
+      ],
+      "date": "Week of August 16, 2024"
+    },
+    {
+      "week": 4,
+      "songs": [
+        "CeeLo Green - Bright Lights Bigger City",
+        "Teddy Swims - Lose Control",
+        "Teddy Swims - Funeral",
+        "Shaboozey - A Bar Song (Tipsy)",
+        "Meghan Trainor Featuring Teddy Swims - Bad For Me",
+        "Dua Lipa - Training Season",
+        "Sabrina Carpenter - Looking at Me",
+        "Benson Boone - Slow It Down",
+        "CeeLo Green - F**k You! (Forget You)",
+        "Teddy Swims - The Door",
+        "Teddy Swims - Hammer to the Heart",
+        "Teddy Swims - Apple Juice",
+        "SIX Featuring Renée Lamb - No Way",
+        "Sabrina Carpenter - Espresso",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "SIX Featuring Aimie Atkinson - All You Wanna Do",
+        "Dasha - What Happens Now?",
+        "Teddy Swims - Devil in a Dress",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "Benson Boone - Beautiful Things",
+        "Fall Out Boy - The Phoenix",
+        "Sabrina Carpenter - Feather",
+        "Anastacia - I'm Outta Love",
+        "Anastacia - Not That Kind",
+        "Anastacia - One Day in Your Life"
+      ],
+      "date": "Week of August 23, 2024"
+    },
+    {
+      "week": 5,
+      "songs": [
+        "Teddy Swims - Lose Control",
+        "Sabrina Carpenter - Looking at Me",
+        "Shaboozey - A Bar Song (Tipsy)",
+        "CeeLo Green - Bright Lights Bigger City",
+        "Teddy Swims - The Door",
+        "Teddy Swims - Funeral",
+        "Meghan Trainor Featuring Teddy Swims - Bad For Me",
+        "Teddy Swims - Hammer to the Heart",
+        "Sabrina Carpenter - Espresso",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "CeeLo Green - F**k You! (Forget You)",
+        "Teddy Swims - Apple Juice",
+        "Teddy Swims - Devil in a Dress",
+        "Dasha - What Happens Now?",
+        "SIX Featuring Renée Lamb - No Way",
+        "Benson Boone - Slow It Down",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "Benson Boone - Beautiful Things",
+        "SIX Featuring Aimie Atkinson - All You Wanna Do",
+        "Sabrina Carpenter - Feather",
+        "Anastacia - I'm Outta Love",
+        "Anastacia - One Day in Your Life",
+        "Fall Out Boy - The Phoenix",
+        "Anastacia - Not That Kind",
+        "Lady Gaga & Bruno Mars - Die With A Smile"
+      ],
+      "date": "Week of August 30, 2024"
+    },
+    {
+      "week": 6,
+      "songs": [
+        "Teddy Swims - Lose Control",
+        "Teddy Swims - You Still Get to Me",
+        "Shaboozey - A Bar Song (Tipsy)",
+        "Sabrina Carpenter - Coincidence",
+        "Teddy Swims - Funeral",
+        "Sabrina Carpenter - Looking at Me",
+        "Lady Gaga & Bruno Mars - Die With A Smile",
+        "Sabrina Carpenter - Espresso",
+        "Meghan Trainor Featuring Teddy Swims - Bad For Me",
+        "Benson Boone - Slow It Down",
+        "Sabrina Carpenter - Taste",
+        "Teddy Swims - The Door",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "Teddy Swims - Hammer to the Heart",
+        "CeeLo Green - Bright Lights Bigger City",
+        "Teddy Swims - Apple Juice",
+        "Anastacia - Not That Kind",
+        "Benson Boone - Beautiful Things",
+        "Teddy Swims - Some Things I'll Never Know",
+        "Teddy Swims - Devil in a Dress",
+        "Teddy Swims - What More Can I Say",
+        "CeeLo Green - F**k You! (Forget You)",
+        "Anastacia - I'm Outta Love",
+        "Sabrina Carpenter - Feather"
+      ],
+      "date": "Week of September 6, 2024"
+    },
+    {
+      "week": 7,
+      "songs": [
+        "Lady Gaga & Bruno Mars - Die With A Smile",
+        "Teddy Swims - You Still Get to Me",
+        "Teddy Swims - Lose Control",
+        "Shaboozey - A Bar Song (Tipsy)",
+        "Teddy Swims - What More Can I Say",
+        "Teddy Swims - Funeral",
+        "Meghan Trainor Featuring Teddy Swims - Bad For Me",
+        "Teddy Swims - Some Things I'll Never Know",
+        "Teddy Swims - dose",
+        "Jessie Murph Featuring Teddy Swims - Dirty",
+        "Sabrina Carpenter - Coincidence",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "Benson Boone - Slow It Down",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "Sabrina Carpenter - Looking at Me",
+        "Teddy Swims - Hammer to the Heart",
+        "Anastacia - Not That Kind",
+        "Anastacia - I'm Outta Love",
+        "Sabrina Carpenter - Espresso",
+        "Teddy Swims - Last Communion",
+        "Teddy Swims - The Door",
+        "Teddy Swims - Devil in a Dress",
+        "Teddy Swims - Apple Juice",
+        "Sabrina Carpenter - Taste",
+        "Chappell Roan - Good Luck, Babe!"
+      ],
+      "date": "Week of September 13, 2024"
+    },
+    {
+      "week": 8,
+      "songs": [
+        "Teddy Swims - Bad Dreams",
+        "Lady Gaga & Bruno Mars - Die With A Smile",
+        "Teddy Swims - You Still Get to Me",
+        "Teddy Swims - Lose Control",
+        "Benson Boone - There She Goes",
+        "Jessie Murph Featuring Teddy Swims - Dirty",
+        "Teddy Swims - What More Can I Say",
+        "Benson Boone - Drunk in My Mind",
+        "Benson Boone - Slow It Down",
+        "Teddy Swims - Funeral",
+        "Benson Boone - Ghost Town",
+        "Teddy Swims - dose",
+        "Teddy Swims - Last Communion",
+        "Benson Boone - Cry",
+        "Teddy Swims - Some Things I'll Never Know",
+        "Benson Boone - What Do You Want",
+        "Meghan Trainor Featuring Teddy Swims - Bad For Me",
+        "Shaboozey - A Bar Song (Tipsy)",
+        "Benson Boone - Be Someone",
+        "Benson Boone - Beautiful Things",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "Teddy Swims - The Door",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "Anastacia - I'm Outta Love",
+        "Teddy Swims - Hammer to the Heart"
+      ],
+      "date": "Week of September 20, 2024"
+    },
+    {
+      "week": 9,
+      "songs": [
+        "Teddy Swims - dose",
+        "Teddy Swims - Lose Control",
+        "Teddy Swims - Bad Dreams",
+        "Lady Gaga & Bruno Mars - Die With A Smile",
+        "Teddy Swims - You Still Get to Me",
+        "Benson Boone - Ghost Town",
+        "Benson Boone - Drunk in My Mind",
+        "Jessie Murph Featuring Teddy Swims - Dirty",
+        "Teddy Swims - What More Can I Say",
+        "Teddy Swims - Last Communion",
+        "Teddy Swims - Some Things I'll Never Know",
+        "Teddy Swims - Funeral",
+        "Benson Boone - Slow It Down",
+        "Benson Boone - Cry",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "Benson Boone - What Do You Want",
+        "Benson Boone - There She Goes",
+        "Tate McRae - greedy",
+        "Teddy Swims - Apple Juice",
+        "The Weeknd - Dancing In The Flames",
+        "Teddy Swims - The Door",
+        "Benson Boone - Be Someone",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "Sabrina Carpenter - Espresso",
+        "Shaboozey - A Bar Song (Tipsy)"
+      ],
+      "date": "Week of September 27, 2024"
+    },
+    {
+      "week": 10,
+      "songs": [
+        "Teddy Swims - Lose Control",
+        "Teddy Swims - dose",
+        "Lady Gaga & Bruno Mars - Die With A Smile",
+        "Teddy Swims - You Still Get to Me",
+        "Elley Duhé & Teddy Swims - FACE MYSELF",
+        "Teddy Swims - What More Can I Say",
+        "Switch Disco, Charlotte Haining & Felix - I FOUND YOU",
+        "Jessie Murph Featuring Teddy Swims - Dirty",
+        "Teddy Swims - Bad Dreams",
+        "Teddy Swims - Some Things I'll Never Know",
+        "Teddy Swims - Last Communion",
+        "The Weeknd - Dancing In The Flames",
+        "Benson Boone - Drunk in My Mind",
+        "Teddy Swims - Apple Juice",
+        "Benson Boone - Ghost Town",
+        "Teddy Swims - Funeral",
+        "Benson Boone - Cry",
+        "Teddy Swims - Goodbye's Been Good to You",
+        "Tate McRae - greedy",
+        "Benson Boone - Slow It Down",
+        "Benson Boone - There She Goes",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "Benson Boone - What Do You Want",
+        "Sabrina Carpenter - Espresso",
+        "Coldplay, Little Simz, Burna Boy, Elyanna & Tini - WE PRAY"
+      ],
+      "date": "Week of October 4, 2024"
+    },
+    {
+      "week": 11,
+      "songs": [
+        "Lady Gaga & Bruno Mars - Die With A Smile",
+        "Teddy Swims - Lose Control",
+        "Elley Duhé & Teddy Swims - FACE MYSELF",
+        "Teddy Swims - dose",
+        "The Weeknd - Dancing In The Flames",
+        "Teddy Swims - You Still Get to Me",
+        "Switch Disco, Charlotte Haining & Felix - I FOUND YOU",
+        "CeeLo Green - Bright Lights Bigger City",
+        "Teddy Swims - Bad Dreams",
+        "Jessie Murph Featuring Teddy Swims - Dirty",
+        "Benson Boone - Drunk in My Mind",
+        "Teddy Swims - What More Can I Say",
+        "Anastacia - Not That Kind",
+        "Teddy Swims - Last Communion",
+        "Teddy Swims - Some Things I'll Never Know",
+        "Benson Boone - Ghost Town",
+        "Teddy Swims - Apple Juice",
+        "Benson Boone - There She Goes",
+        "Benson Boone - Slow It Down",
+        "Benson Boone - Cry",
+        "Tate McRae - greedy",
+        "Addison Rae - Diet Pepsi",
+        "Tiësto Featuring Tate McRae - 10:35",
+        "Kendrick Lamar - Not Like Us",
+        "Teddy Swims - Funeral"
+      ],
+      "date": "Week of October 11, 2024"
+    },
+    {
+      "week": 12,
+      "songs": [
+        "Anastacia - Not That Kind",
+        "The Weeknd - Dancing In The Flames",
+        "Elley Duhé & Teddy Swims - FACE MYSELF",
+        "Teddy Swims - Lose Control",
+        "Lady Gaga & Bruno Mars - Die With A Smile",
+        "Anastacia - Paid My Dues",
+        "Teddy Swims - dose",
+        "Benson Boone - Drunk in My Mind",
+        "Teddy Swims - You Still Get to Me",
+        "CeeLo Green - Bright Lights Bigger City",
+        "Switch Disco, Charlotte Haining & Felix - I FOUND YOU",
+        "Anastacia - I'm Outta Love",
+        "Teddy Swims - Bad Dreams",
+        "Teddy Swims - What More Can I Say",
+        "Teddy Swims - Last Communion",
+        "Jessie Murph Featuring Teddy Swims - Dirty",
+        "Benson Boone - There She Goes",
+        "Anastacia - Left Outside Alone",
+        "Addison Rae - Diet Pepsi",
+        "Teddy Swims - Some Things I'll Never Know",
+        "Teddy Swims - Apple Juice",
+        "Benson Boone - Slow It Down",
+        "Anastacia - One Day in Your Life",
+        "Benson Boone - Ghost Town",
+        "Tate McRae - greedy"
+      ],
+      "date": "Week of October 18, 2024"
+    },
+    {
+      "week": 13,
+      "songs": [
+        "Elley Duhé & Teddy Swims - FACE MYSELF",
+        "Benson Boone - Drunk in My Mind",
+        "Madison Beer - 15 MINUTES",
+        "Teddy Swims - Lose Control",
+        "Anastacia - Not That Kind",
+        "Benson Boone - Be Someone",
+        "Teddy Swims - What More Can I Say",
+        "Benson Boone - In The Stars",
+        "Teddy Swims - You Still Get to Me",
+        "Madison Beer - Good in Goodbye",
+        "Teddy Swims - Some Things I'll Never Know",
+        "Lady Gaga & Bruno Mars - Die With A Smile",
+        "Benson Boone - Cry",
+        "Teddy Swims - dose",
+        "Teddy Swims - Bad Dreams",
+        "Benson Boone - There She Goes",
+        "Madison Beer - Sweet Relief",
+        "Teddy Swims - Last Communion",
+        "Benson Boone - Slow It Down",
+        "Anastacia - I'm Outta Love",
+        "ROSÉ & Bruno Mars - APT.",
+        "Andy C & Becky Hill - Indestructible",
+        "Benson Boone - Ghost Town",
+        "The Weeknd - Dancing In The Flames",
+        "Anastacia - Paid My Dues"
+      ],
+      "date": "Week of October 25, 2024"
+    }
+  ]
+}
